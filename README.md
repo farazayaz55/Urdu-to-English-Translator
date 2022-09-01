@@ -1,2 +1,2 @@
-# Urdu-to-English-Translator
+# uRDU TO ENGLISH TRANSLATOR
 A transformer-based encoder-decoder model to solve the machine translation of Urdu to English, only in this direction, for the given parallel dataset (two files that are sentence aligned) </br>
